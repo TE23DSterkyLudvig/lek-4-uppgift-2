@@ -1,0 +1,41 @@
+body{
+    background-image: url(./img/winter-snow.jpg);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+h1{
+    background-color: gray;
+    color: white;
+    margin-left: 35%;
+}
+
+.Rubrik{
+    display: flex;
+    flex-direction: row;
+    border: 5px solid black;
+    border-radius: 5px;
+}
+#tomte2{
+    margin-left: 35%;
+}
+#Julafton{
+    background-color: white;
+    color: red;
+    margin-right: 60%;
+}
+#Nyår{
+    background-color: orange;
+    color: white;
+    margin-right: 60%;
+}
+.viktiga{
+    background-color: slategray;
+    border: 1.5px solid yellow;
+    margin-left:  40%;
+    margin-right: 35%;
+    text-align: left;
+}
+li{
+    color: white;
+}
